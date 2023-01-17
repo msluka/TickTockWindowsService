@@ -32,8 +32,12 @@ namespace TickTockWindowsService
         {
             // Our code goes here START
 
-            string[] lines = new string[] { DateTime.Now.ToString() };
+            string[] lines = new string[] { DateTime.Now.ToString() };            
             File.AppendAllLines(_file, lines);
+
+                // we can also play some audio this way
+                // System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"D:/Temp/myvoice.wav");
+                // player.Play();            
 
             // ur code goes here END
         }
