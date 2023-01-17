@@ -30,7 +30,7 @@ namespace TickTockWindowsService
 
         private void Timer_Elapsed(object sender, ElapsedEventArgs e)
         {
-            // Our code goes here START
+            // Our code goes here --START
 
             string[] lines = new string[] { DateTime.Now.ToString() };            
             File.AppendAllLines(_file, lines);
@@ -39,7 +39,7 @@ namespace TickTockWindowsService
                 // System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"D:/Temp/myvoice.wav");
                 // player.Play();            
 
-            // ur code goes here END
+            // Our code goes here --END
         }
 
         public void Start()
