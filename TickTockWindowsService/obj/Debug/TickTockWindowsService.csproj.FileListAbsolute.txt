@@ -1,0 +1,11 @@
+C:\Users\SIBERG\source\repos\TickTockWindowsService\TickTockWindowsService\bin\Debug\TickTockWindowsService.exe.config
+C:\Users\SIBERG\source\repos\TickTockWindowsService\TickTockWindowsService\bin\Debug\TickTockWindowsService.exe
+C:\Users\SIBERG\source\repos\TickTockWindowsService\TickTockWindowsService\bin\Debug\TickTockWindowsService.pdb
+C:\Users\SIBERG\source\repos\TickTockWindowsService\TickTockWindowsService\bin\Debug\Topshelf.dll
+C:\Users\SIBERG\source\repos\TickTockWindowsService\TickTockWindowsService\bin\Debug\Topshelf.xml
+C:\Users\SIBERG\source\repos\TickTockWindowsService\TickTockWindowsService\obj\Debug\TickTockWindowsService.csproj.AssemblyReference.cache
+C:\Users\SIBERG\source\repos\TickTockWindowsService\TickTockWindowsService\obj\Debug\TickTockWindowsService.csproj.SuggestedBindingRedirects.cache
+C:\Users\SIBERG\source\repos\TickTockWindowsService\TickTockWindowsService\obj\Debug\TickTockWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\SIBERG\source\repos\TickTockWindowsService\TickTockWindowsService\obj\Debug\TickTockWindowsService.csproj.CopyComplete
+C:\Users\SIBERG\source\repos\TickTockWindowsService\TickTockWindowsService\obj\Debug\TickTockWindowsService.exe
+C:\Users\SIBERG\source\repos\TickTockWindowsService\TickTockWindowsService\obj\Debug\TickTockWindowsService.pdb
